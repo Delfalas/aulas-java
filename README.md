@@ -1,4 +1,4 @@
-<h1>Projetos das aulas de programação JAVA</h1>
+<h1>Códigos das aulas de programação JAVA</h1>
 <h3>exercicio_banco_poo</h3>
 <p>Exercício de um programa funcional de conta bancária, saque e depósito com classe Account </p>
 <br>
