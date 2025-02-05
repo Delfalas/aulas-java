@@ -20,3 +20,8 @@
 com cálculo de parcelas de um contrato bancário, com taxa de pagamento e juros
 </p>
 <br>
+<h3>lambda1/src</h3>
+<p>Atividade prática de uso de stream e expressão lambda
+com leitura de arquivo, ordenar em ordem alfabética e filtrar/somar salário 
+</p>
+<br>
